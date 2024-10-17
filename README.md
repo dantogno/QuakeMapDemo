@@ -12,3 +12,7 @@ The map will be based on this wad:
 
 
 
+## Blockout walkthrough video
+
+https://github.com/user-attachments/assets/11d405aa-f8b8-4f2a-a431-c873a2682e2d
+
